@@ -25,12 +25,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas ha
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="margin-right: 5px; margin-bottom: 5px;">
 </div>
 
-
-## 🧑‍💻 Projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiBergamim&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/guibergamim/dio-lab-open-source)
-
-
 ### 📊 Estatísticas
 
 <p>
